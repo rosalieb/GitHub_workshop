@@ -8,6 +8,9 @@
 *.DS\_Store
 *.DS_Store
 
+# do not share the ppt yet
+*Intro_GitHub_CARRTEL.pdf
+
 # User-specific files
 *.Ruserdata
 
